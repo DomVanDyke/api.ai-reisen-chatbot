@@ -1,1 +1,3 @@
 # api.ai-reisen-chatbot
+
+Ich versuche hier meinen nodeJS sachen zu machen...
